@@ -10,11 +10,11 @@ li {
 }
 
 input {
-	background-color: #333;
+	background-color: #00eaff;
 	border: none;
 	border-radius: 2px;
 	text-align: left;
-	color: white;
+	color: rgb(107, 255, 1);
 }
 
 h1{
@@ -61,5 +61,5 @@ width: 50%
 }
 
 body {
-	background-color: #333;
+	background-color: #ffffff;
 }
